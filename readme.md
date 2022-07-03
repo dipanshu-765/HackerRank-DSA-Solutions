@@ -1,0 +1,1 @@
+This repo contains solutions for problems under Problem Solving track on Hackerrank, intended to be used for reference.
